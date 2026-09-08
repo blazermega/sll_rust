@@ -6,7 +6,7 @@ A simple, interactive command-line implementation of a singly linked list in Rus
 
 - **Insert at front** – add a new node at the head of the list
 - **Insert at end** – add a new node at the tail of the list
-- **Delete from front** – remove the head node
+- **Delete from front** – remove the head node 
 - **Delete from end** – remove the tail node
 - **Display** – print the full list
 
