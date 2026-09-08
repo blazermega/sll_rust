@@ -87,8 +87,8 @@ enter the first element of the list
 - [ ] Track list length instead of walking the list each time
 - [ ] Add unit tests for each operation
 - [ ] Turn `Node`/`List` into a reusable library (`lib.rs`) instead of only a CLI demo
-- [ ] Add a `License` file
 
-## License
+
+
 
 No license specified yet — add one (e.g. MIT or Apache-2.0) if you plan to share or accept contributions.
